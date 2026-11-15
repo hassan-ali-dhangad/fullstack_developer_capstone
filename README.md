@@ -1,3 +1,3 @@
-# fullstack-capstone-project
-
-## Project Name: Cars Dealership Full Stack Application
+# Full Stack Developer Capstone Project
+Repository Name: fullstack_developer_capstone
+Project Name: fullstack_developer_capstone
